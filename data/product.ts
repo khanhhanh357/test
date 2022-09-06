@@ -1,0 +1,1 @@
+export const DATA=[{name:"khanh_test",price:5000},{name:"test_khanh",price:5000},{name:"test_khanh2",price:5000},{name:"test_khanh3",price:5000}]
